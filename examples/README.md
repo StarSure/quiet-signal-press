@@ -19,8 +19,8 @@
 
 | 输出文件 | 输入页 | 图像角色 | 验收点 |
 | --- | --- | --- | --- |
-| `licowa-alpine-lake-window.png` | [Alpine Mountain Lake](https://licowa.com/wallpaper/detail/alpine-mountain-lake-forest-4k-wallpaper-413965) | 编辑目标：山脊、松林、湖面 | 取景被缩小为底部撕纸窗口，78% 保持开放纸面 |
-| `licowa-mount-cook-route.png` | [Mount Cook Road Nature](https://licowa.com/wallpaper/detail/mount-cook-road-nature-landscape-4k-wallpaper-413959) | 编辑目标：道路、雪山、居中纵深 | 照片变为窄条，红色撕纸承担唯一强调色 |
+| `licowa-alpine-lake-window.png` | [Alpine Mountain Lake](https://licowa.com/wallpaper/detail/alpine-mountain-lake-forest-4k-wallpaper-413965) | 编辑目标：山脊、松林、湖面 | 60% 原景摄影 + 40% 同景纸艺；蓝色撕纸线只作过渡 |
+| `licowa-mount-cook-route.png` | [Mount Cook Road Nature](https://licowa.com/wallpaper/detail/mount-cook-road-nature-landscape-4k-wallpaper-413959) | 编辑目标：道路、雪山、居中纵深 | 60% 原景摄影 + 40% 同景纸艺；锈红分界线只作呼应 |
 
 Licowa 图片由页面标示为 `LiCoWa Design`，源文件不纳入仓库。输出仅为演示和推广用途，并不自动获得与本项目代码/文档相同的 MIT 再授权；详见 [LICOWA_SOURCES.md](LICOWA_SOURCES.md)。
 
@@ -39,7 +39,7 @@ These original repository examples test the default contract: 3:5 portrait, an o
 
 | Output | Input page | Image role | Check |
 | --- | --- | --- | --- |
-| `licowa-alpine-lake-window.png` | [Alpine Mountain Lake](https://licowa.com/wallpaper/detail/alpine-mountain-lake-forest-4k-wallpaper-413965) | edit target: ridge, pines, lake | source is contained in a lower torn window; 78% remains open paper |
-| `licowa-mount-cook-route.png` | [Mount Cook Road Nature](https://licowa.com/wallpaper/detail/mount-cook-road-nature-landscape-4k-wallpaper-413959) | edit target: road, snowy ridge, depth | source becomes a narrow strip; the red tear is the only accent |
+| `licowa-alpine-lake-window.png` | [Alpine Mountain Lake](https://licowa.com/wallpaper/detail/alpine-mountain-lake-forest-4k-wallpaper-413965) | edit target: ridge, pines, lake | 60% faithful photo + 40% paper translation; a blue tear is only the transition |
+| `licowa-mount-cook-route.png` | [Mount Cook Road Nature](https://licowa.com/wallpaper/detail/mount-cook-road-nature-landscape-4k-wallpaper-413959) | edit target: road, snowy ridge, depth | 60% faithful photo + 40% paper translation; a rust tear is only the transition |
 
 The Licowa pages identify the images as `LiCoWa Design`. Source files are not included in this repository. The outputs are demonstrations for Licowa promotion, not an automatic MIT relicense of Licowa-derived material. See [LICOWA_SOURCES.md](LICOWA_SOURCES.md).

@@ -85,8 +85,8 @@ cp -R quiet-signal-press/quiet-signal-press ~/.codex/skills/
 
 | Licowa 输入 | 海报输出 | 保留与改写 |
 | --- | --- | --- |
-| [Alpine Mountain Lake](https://licowa.com/wallpaper/detail/alpine-mountain-lake-forest-4k-wallpaper-413965) | ![山湖被裁成撕纸窗口](examples/output/licowa-alpine-lake-window.png) | 山脊、松林、湖面被保留；摄影被压缩至底部窗口 |
-| [Mount Cook Road Nature](https://licowa.com/wallpaper/detail/mount-cook-road-nature-landscape-4k-wallpaper-413959) | ![山路被裁成窄条](examples/output/licowa-mount-cook-route.png) | 道路与雪山被保留；红色撕纸成为“路线受阻”的关系 |
+| [Alpine Mountain Lake](https://licowa.com/wallpaper/detail/alpine-mountain-lake-forest-4k-wallpaper-413965) | ![山湖摄影与纸艺转译](examples/output/licowa-alpine-lake-window.png) | 上半保留山脊、松林、湖面；下半转译为同景纸艺 |
+| [Mount Cook Road Nature](https://licowa.com/wallpaper/detail/mount-cook-road-nature-landscape-4k-wallpaper-413959) | ![山路摄影与纸艺转译](examples/output/licowa-mount-cook-route.png) | 上半保留道路与雪山；下半将路线转为手绘纸艺 |
 
 前四张抽象图可随仓库按 MIT 使用。Licowa 源图不随仓库分发；这两张衍生案例仅用于展示与推广 Licowa，权利说明见 [examples/LICOWA_SOURCES.md](examples/LICOWA_SOURCES.md)。若要把它们用于仓库以外，请先向 Licowa 确认权利。
 

@@ -78,8 +78,8 @@ These two examples use Licowa wallpapers as the edit targets. Their landscapes r
 
 | Licowa input | Poster output | Preserved / changed |
 | --- | --- | --- |
-| [Alpine Mountain Lake](https://licowa.com/wallpaper/detail/alpine-mountain-lake-forest-4k-wallpaper-413965) | ![Alpine lake torn window](examples/output/licowa-alpine-lake-window.png) | Ridge, pines, and lake remain; the photograph is reduced to a lower window. |
-| [Mount Cook Road Nature](https://licowa.com/wallpaper/detail/mount-cook-road-nature-landscape-4k-wallpaper-413959) | ![Mount Cook road strip](examples/output/licowa-mount-cook-route.png) | Road and snowy ridge remain; a red torn shape introduces interruption. |
+| [Alpine Mountain Lake](https://licowa.com/wallpaper/detail/alpine-mountain-lake-forest-4k-wallpaper-413965) | ![Alpine lake photograph and paper translation](examples/output/licowa-alpine-lake-window.png) | The upper half preserves ridge, pines, and lake; the lower half translates the same view into paper art. |
+| [Mount Cook Road Nature](https://licowa.com/wallpaper/detail/mount-cook-road-nature-landscape-4k-wallpaper-413959) | ![Mount Cook road photograph and paper translation](examples/output/licowa-mount-cook-route.png) | The upper half preserves road and snowy ridge; the lower half redraws the route in paper art. |
 
 The first four abstract images are available with the repository under MIT. Licowa source files are not redistributed here; these two derivative demonstrations are for showing and promoting Licowa only. See [examples/LICOWA_SOURCES.md](examples/LICOWA_SOURCES.md), and obtain rights confirmation from Licowa before any reuse outside this repository.
 
