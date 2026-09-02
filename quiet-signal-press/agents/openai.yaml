@@ -1,0 +1,5 @@
+interface:
+  display_name: "静默信号社"
+  short_description: "将主题或照片制成高留白纸张编辑海报"
+  brand_color: "#D1495B"
+  default_prompt: "Use $quiet-signal-press to make a sparse paper editorial poster from this image."
