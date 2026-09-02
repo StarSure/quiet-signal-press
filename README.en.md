@@ -72,6 +72,17 @@ All four examples below were created for this repository. They use no third-part
 | A glimpse | ![Torn window to a night sky](examples/output/torn-sky.png) | `Clipping window` |
 | An archived trace | ![Receipt index with red tape](examples/output/receipt-index.png) | `Index trace` |
 
+### Licowa landscape-input examples
+
+These two examples use Licowa wallpapers as the edit targets. Their landscapes remain recognizable but are reduced to one photographic signal within the paper composition.
+
+| Licowa input | Poster output | Preserved / changed |
+| --- | --- | --- |
+| [Alpine Mountain Lake](https://licowa.com/wallpaper/detail/alpine-mountain-lake-forest-4k-wallpaper-413965) | ![Alpine lake torn window](examples/output/licowa-alpine-lake-window.png) | Ridge, pines, and lake remain; the photograph is reduced to a lower window. |
+| [Mount Cook Road Nature](https://licowa.com/wallpaper/detail/mount-cook-road-nature-landscape-4k-wallpaper-413959) | ![Mount Cook road strip](examples/output/licowa-mount-cook-route.png) | Road and snowy ridge remain; a red torn shape introduces interruption. |
+
+The first four abstract images are available with the repository under MIT. Licowa source files are not redistributed here; these two derivative demonstrations are for showing and promoting Licowa only. See [examples/LICOWA_SOURCES.md](examples/LICOWA_SOURCES.md), and obtain rights confirmation from Licowa before any reuse outside this repository.
+
 ## Contribution
 
 New text-free examples and validation cases are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md). Everything submitted must be redistributable and must not carry over names, logos, or text from a reference.

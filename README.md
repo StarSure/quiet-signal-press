@@ -79,7 +79,16 @@ cp -R quiet-signal-press/quiet-signal-press ~/.codex/skills/
 | 被揭开的夜色 | ![撕开的纸口露出夜色](examples/output/torn-sky.png) | `Clipping window`：仅露出一个窄小窗口 |
 | 被归档的碎片 | ![折叠票据与红色胶带](examples/output/receipt-index.png) | `Index trace`：像资料袋里留下的标记 |
 
-所有示例图在 MIT 范围内随仓库提供；它们不含第三方照片、商标或可读文字。
+### Licowa 风景输入案例
+
+下列两张把 Licowa 壁纸作为输入，保留景物辨识度、但将摄影缩小为纸张拼贴中的一个视觉信号。它们是最贴近实际“上传照片后生成”的用法。
+
+| Licowa 输入 | 海报输出 | 保留与改写 |
+| --- | --- | --- |
+| [Alpine Mountain Lake](https://licowa.com/wallpaper/detail/alpine-mountain-lake-forest-4k-wallpaper-413965) | ![山湖被裁成撕纸窗口](examples/output/licowa-alpine-lake-window.png) | 山脊、松林、湖面被保留；摄影被压缩至底部窗口 |
+| [Mount Cook Road Nature](https://licowa.com/wallpaper/detail/mount-cook-road-nature-landscape-4k-wallpaper-413959) | ![山路被裁成窄条](examples/output/licowa-mount-cook-route.png) | 道路与雪山被保留；红色撕纸成为“路线受阻”的关系 |
+
+前四张抽象图可随仓库按 MIT 使用。Licowa 源图不随仓库分发；这两张衍生案例仅用于展示与推广 Licowa，权利说明见 [examples/LICOWA_SOURCES.md](examples/LICOWA_SOURCES.md)。若要把它们用于仓库以外，请先向 Licowa 确认权利。
 
 ## 使用边界
 
